@@ -1,20 +1,19 @@
 # MEC-Measure Experimental Datasets
 
 ## Event Data 2024
-- `likert_responses.xlsx`: Raw responses to 11 Likert questions from 2024 citizen event
-- `likert_responses_histograms.xlsx`: Processed histograms from Likert responses
+- `topics_and_questions_responses.xlsx`: Raw responses to 11 Likert questions 
+- `topics_and_questions_responses_output.xlsx`: Processed histograms
 
-## X-Type Question Analysis 2024
-- `xtype_responses_raw.xlsx`: Raw responses with self-classification
-- `xtype_responses_classified.xlsx`: Responses with self and GPT classifications
-- `xtype_classifications.xlsx`: Classification data only
-- `xtype_classifications_histograms.xlsx`: Processed histograms from classifications
+## X-Type Question Analysis 2024 
+- `likert_scale_classifications_auto_gpt.xlsx`: Raw responses with self/GPT classifications
+- `likert_scale_classifications_auto_gpt_output.xlsx`: Processed classification histograms
+- `csv_classification_likert_post_event.xlsx`: Responses with classifications
 
 ## Historical Data
-- `event_data_2023.xlsx`: 5 time-series histograms from 2023 citizen event
-- `peace_process_surveys.xlsx`: 24 normalized histograms from 2016 peace process surveys
-- `peace_process_feb2016.xlsx`: February 2016 processed polarization data
-- `peace_process_jun2016.xlsx`: June 2016 processed polarization data
+- `event_data_2023.xlsx`: 5 time-series histograms from 2023 event
+- `polarization_peace_process.xlsx`: 24 normalized histograms from 2016 peace surveys
+- `polarization_peace_process_feb2016.xlsx`: February 2016 processed data
+- `polarization_peace_process_jun2016.xlsx`: June 2016 processed data
 
 ## Social Media Data
 - Pension Reform histogram: [3742, 389, 1450, 549, 3871]
